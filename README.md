@@ -13,7 +13,7 @@
 ---
   <img align="left" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alenjojo&show_icons=true&theme=radical&hide=stars&line_height=45" /> 
 
- <img align="right" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenjojo&line_height=52" /> 
+ <img align="right" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenjojo&count_private=true&line_height=52" /> 
 <br />
 <br />
  <br />
