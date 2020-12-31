@@ -56,10 +56,7 @@
 
 </details> -->
 
-
-  <img align="left" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Alenjojo&show_icons=true&hide_border=true" />
-
-  <img align="left" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alenjojo&show_icons=true&theme=radical" />
+  <img align="centre" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alenjojo&show_icons=true&theme=radical" />
 
 
 <!--[website]: https://codeSTACKr.com  -->
