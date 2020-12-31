@@ -56,11 +56,10 @@
 
 </details> -->
 
-<details>
 
   <img align="left" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Alenjojo&show_icons=true&hide_border=true" />
 
-</details>
+
 
 <!--[website]: https://codeSTACKr.com  -->
 [twitter]: https://twitter.com/mid_space_walk
