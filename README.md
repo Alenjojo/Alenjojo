@@ -57,7 +57,7 @@
 </details> -->
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>: GitHub Stats</summary>
 
   <img align="left" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Alenjojo&show_icons=true&hide_border=true" />
 
