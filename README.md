@@ -24,7 +24,7 @@
  <br />
 <br><br>
 ### Connect with me:
-<br>
+<br><br><br>
 <p>
 <img align="left" alt="alen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="alen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
