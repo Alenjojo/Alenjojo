@@ -1,5 +1,4 @@
 ### Hi, I'm Alen Jojo👋
- [![https://alenjojo.co/](https://img.shields.io/website?label=alenjojo.co&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://alenjojo.co/) 
 <p align="center">
   <a href="https://github.com/alenjojo?tab=followers">
     <img src="https://img.shields.io/github/followers/alenjojo?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
