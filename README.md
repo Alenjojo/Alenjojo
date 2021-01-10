@@ -1,23 +1,15 @@
 ### Hi, I'm Alen Jojo👋
-
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http//) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/mid_space_walk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/alen_jojo_)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mid_space_walk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/alen_jojo_)
-## I'm currently a student!!
+ [![Website](https://img.shields.io/website?label=alenjojo.co&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http//) 
 <p align="center">
-  <a href="https://github.com/eddiejaoude?tab=followers">
-    <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/alenjojo?tab=followers">
+    <img src="https://img.shields.io/github/followers/alenjojo?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://discord.com/invite/jZQs6Wu">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />
-  </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
+  <a href="http://twitter.com/alen_jojo_">
+    <img src="https://img.shields.io/twitter/follow/alen_jojo_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
+## I'm currently a student!!
+
 
 <p align="center">
   <img width="48%" src="https://user-images.githubusercontent.com/624760/87853406-a34b6900-c901-11ea-834b-07d90ca3d4fa.gif" alt="Eddie teaching code on YouTube" />
@@ -39,7 +31,6 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -81,8 +72,6 @@
 
 </details> -->
 
-
-<!--[website]: https://codeSTACKr.com  -->
 [twitter]: https://twitter.com/alen_jojo_
 [instagram]: https://instagram.com/mid_space_walker
 [linkedin]: https://www.linkedin.com/in/alenjojo/
