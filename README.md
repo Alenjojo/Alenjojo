@@ -2,7 +2,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http//) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/mid_space_walk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/alen_jojo_)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/mid_space_walk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/alen_jojo_)
 ## I'm currently a student!!
 
 - 🌱 I’m currently learning everything 🤣
