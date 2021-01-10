@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/website?label=alenjojo.co&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" />
   </a>
 </p>
-## I'm currently a student!!
+### I'm currently a student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
