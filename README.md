@@ -1,4 +1,4 @@
-### Hi, I'm Alen Jojo👋
+### Hi, I'm Alen Jojo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
   <a href="https://github.com/alenjojo?tab=followers">
     <img src="https://img.shields.io/github/followers/alenjojo?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
