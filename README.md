@@ -64,6 +64,6 @@
 
 
 <!--[website]: https://codeSTACKr.com  -->
-[twitter]: https://twitter.com/mid_space_walk
-[instagram]: https://instagram.com
+[twitter]: https://twitter.com/alen_jojo_
+[instagram]: https://instagram.com/mid_space_walker
 [linkedin]: https://www.linkedin.com/in/alenjojo/
