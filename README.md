@@ -10,7 +10,8 @@
     <img src="https://img.shields.io/website?label=alenjojo.co&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" />
   </a>
 </p>
-### I'm currently a student!!
+
+## I'm currently a student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -32,7 +33,7 @@
 </p>
 <br />
 <br/>
-
+<br><br>
 ### Languages and Tools:
 <p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -55,17 +56,6 @@
 <br />
 
 ---
-
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-
-</details> -->
 
 [twitter]: https://twitter.com/alen_jojo_
 [instagram]: https://instagram.com/mid_space_walker
