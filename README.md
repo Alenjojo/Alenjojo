@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/website?label=alenjojo.co&style=for-the-badge&url=https://alenjojo.co" />
   </a>
 </p>
-<p> <img src="https://github.com/yalematta/yalematta/blob/master/github_profile_mlh.png"> </p>
 ## I'm currently a student!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -24,6 +23,10 @@
 <br />
  <br />
 <br><br>
+
+<p> <img src="https://github.com/yalematta/yalematta/blob/master/github_profile_mlh.png"> </p>
+
+
 <h4>Connect with me:</h4>
 <br><br>
 <p>
