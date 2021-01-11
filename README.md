@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/twitter/follow/alen_jojo_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  <a href="https://alenjojo.co/">
-    <img src="https://img.shields.io/website?label=alenjojo.co&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" />
+    <img src="https://img.shields.io/website?label=alenjojo.co&style=for-the-badge&url=https://alenjojo.co" />
   </a>
 </p>
 
