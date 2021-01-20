@@ -24,9 +24,6 @@
  <br />
 <br><br>
 
-<p> <img src="https://github.com/yalematta/yalematta/blob/master/github_profile_mlh.png"> </p>
-
-
 <h4>Connect with me:</h4>
 <p>
 <img align="left" alt="alen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
