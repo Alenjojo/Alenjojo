@@ -6,7 +6,7 @@
   <a href="http://twitter.com/alen_jojo_">
     <img src="https://img.shields.io/twitter/follow/alen_jojo_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
- <a href="https://alenjojo.com/">
+ <a href="https://www.alenjojo.com/">
     <img src="https://img.shields.io/website?label=alenjojo.com&style=for-the-badge&url=https://www.alenjojo.com" />
   </a>
 </p>
