@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/twitter/follow/alen_jojo_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  <a href="https://alenjojo.com/">
-    <img src="https://img.shields.io/website?label=alenjojo.co&style=for-the-badge&url=https://alenjojo.com" />
+    <img src="https://img.shields.io/website?label=alenjojo.com&style=for-the-badge&url=https://alenjojo.com" />
   </a>
 </p>
 ## I'm currently a student!!
