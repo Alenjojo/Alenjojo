@@ -13,8 +13,7 @@
 ## I'm currently a student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals was Contribute more to Open Source projects now more into development
 ---
   <img align="left" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alenjojo&show_icons=true&theme=radical&hide=stars&line_height=45" /> 
 
