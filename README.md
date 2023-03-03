@@ -10,10 +10,9 @@
     <img src="https://img.shields.io/website?label=alenjojo.com&style=for-the-badge&url=https://www.alenjojo.com" />
   </a>
 </p>
-## I'm currently a student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals was Contribute more to Open Source projects now more into development
+- 🥅 2023 Goals was Contribute more to Open Source projects now more into development
 ---
   <img align="left" alt="alenjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alenjojo&show_icons=true&theme=radical&hide=stars&line_height=45" /> 
 
